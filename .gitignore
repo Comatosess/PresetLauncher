@@ -1,0 +1,8 @@
+__pycache__/
+build/
+dist/
+*.exe
+icon_cache/
+presets.json
+test_presets.json
+build_log.txt
