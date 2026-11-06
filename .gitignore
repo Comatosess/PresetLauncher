@@ -2,3 +2,6 @@
 dist/
 __pycache__/
 *.pyc
+*.exe
+presets.json
+icon_cache/

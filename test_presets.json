@@ -1,0 +1,50 @@
+{
+  "presets": [],
+  "autostart_preset": "",
+  "start_hidden": false,
+  "hide_after_launch": false,
+  "folders": [],
+  "categories": {
+    "Игры": [
+      "osu!.exe",
+      "steam.exe",
+      "epicgameslauncher.exe",
+      "minecraft launcher.exe"
+    ],
+    "Браузеры": [
+      "chrome.exe",
+      "msedge.exe",
+      "firefox.exe",
+      "brave.exe",
+      "opera.exe"
+    ],
+    "Мессенджеры": [
+      "discord.exe",
+      "telegram.exe",
+      "whatsapp.exe",
+      "slack.exe",
+      "teams.exe"
+    ],
+    "Стрим": [
+      "obs64.exe",
+      "obs32.exe",
+      "streamlabs obs.exe"
+    ],
+    "Музыка": [
+      "aimp.exe",
+      "spotify.exe",
+      "foobar2000.exe"
+    ],
+    "Работа": [
+      "code.exe",
+      "pycharm64.exe",
+      "winword.exe",
+      "excel.exe",
+      "notion.exe"
+    ],
+    "Периферия": [
+      "opentabletdriver.ux.wpf.exe"
+    ]
+  },
+  "first_run_done": true
+}
